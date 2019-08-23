@@ -1,0 +1,90 @@
+.contact {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-left: 4em;
+    margin-right: 1em;
+    background-color: rgb(20, 8, 8);
+
+}
+
+.menu ul{  /* here to control contact me*/
+  
+    background: hsl(240, 6%, 93%);
+    border-radius: 200px; /* Rounded borders */
+    border-color: blue;
+    font-size: 1em;
+    border-color: black;
+    margin-right: 2em;
+    margin-left: 2em;
+
+
+}
+
+.menu li a{
+
+   
+    color: rgb(73, 51, 9);
+
+    display: block;
+    padding: .6em 1em;
+    text-decoration: none;
+  
+}
+
+.menu li a:hover{
+    background: hsl(240, 93%, 47%)
+    
+}
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 15px; /* Some padding */  
+    border: 1px solid rgb(59, 5, 41); /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 7px; /* Add a top margin */
+    margin-bottom: 2px; /* Bottom margin */
+    margin-left: 6em;
+    margin-right: 1em;
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: rgb(53, 7, 53);
+    color: rgb(203, 197, 207);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #282f3f;
+    border-radius: 5px; /* Rounded borders */
+
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 50px;
+    background-color: #eee8ec;
+    padding: 10px;
+
+    
+  }
+  .menu-section{
+    background-color: blanchedalmond
+  }
+ .contact{
+   font-size: 2.5em;
+   text-align: center;
+  margin-top:2em;
+  margin-bottom: 1em;
+  margin-left: .2em;
+ text-align: center;   
+ color: rgb(129, 16, 86);
+ background-color: blanchedalmond
+ }

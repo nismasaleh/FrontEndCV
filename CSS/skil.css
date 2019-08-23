@@ -1,0 +1,72 @@
+.site{
+    color: rgb(104, 105, 22);
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.text{
+    color: black;
+    margin-bottom: 2em;
+    margin-top: auto;
+}
+
+.skills-base{
+    background-color: blanchedalmond;
+}
+
+
+    
+    .bottom-left{
+        color: rgb(160, 154, 154);
+      
+        position: absolute;
+        bottom: 560px;
+        left: 600px;
+        font-size: 1.5em;
+
+      }
+      .bottom-right{
+        color: rgb(136, 57, 119);
+        position: absolute;
+        bottom: 430px;
+        left: 600px;
+        top: 550;
+        font-size: 1.3em;
+      }
+      
+      .centerer{
+        color: rgb(56, 59, 11);
+        position: absolute;
+        bottom: 650px;
+        left: 750px;
+        font-size: 1.5em;
+
+      }
+      
+      .year{
+        color: rgb(102, 14, 14);
+      
+        position: absolute;
+        bottom: 700px;
+        left: 600px;
+        font-size: 1.5em;
+
+      }
+      
+      .name{
+        color: rgb(36, 102, 85);
+        position: absolute;
+        bottom: 650px;
+        left: 1100px;
+        font-size: 1.5em;
+
+      }
+
+      .imagetext{
+         border-block-color: 20em;
+         border-block-end-color: blueviolet;
+
+
+      }
+
+

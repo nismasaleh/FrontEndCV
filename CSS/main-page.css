@@ -1,0 +1,55 @@
+.main-p{ /* here for the main head*/
+    color: rgb(235, 230, 222);
+
+    font-size: 3em;
+    background-color: rgb(69, 133, 163);
+    border-radius: 450em;
+    border-block-start-style: groove;
+    border-block-start-width: 8em;
+    border-style: dashed;
+    border-block-start-color: 
+    burlywood;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+
+
+    
+}
+
+
+
+ul{  /*change the style of the chape of the list*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #426de2;
+
+}
+
+ li {  /*as ra2si list*/
+    float: left;
+    margin-left: 3.8em;  /* to put the text in the list in center*/
+    -webkit-animation: alternate 2s linear;
+    background-color: rgb(46, 101, 165);
+  } 
+  li a {
+    display: block;
+    color: rgb(218, 205, 205);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {  /* to select with background color*/
+    background-color: #2f279e;
+  }
+
+  .marquee{
+    background-color: rgb(109, 109, 202);
+    white-space: nowrap;
+  /* to move the text frpm left to right and reverse*/
+    font-size: .5em;
+}
